@@ -1,0 +1,108 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",0,ACS DEMOGRAPHIC AND HOUSING ESTIMATES,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",0.5,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",0.8,SEX AND AGE,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",1,Total population,"3,263,584",*****,"3,263,584",(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",2,Male,"1,543,991","+/-3,969",47.3,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",3,Female,"1,719,593","+/-3,969",52.7,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",4,Sex ratio (males per 100 females),89.8,+/-0.4,(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",4.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",5,Under 5 years,"103,841","+/-2,131",3.2,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",6,5 to 9 years,"150,197","+/-5,863",4.6,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",7,10 to 14 years,"176,442","+/-5,847",5.4,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",8,15 to 19 years,"205,814","+/-5,445",6.3,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",9,20 to 24 years,"225,881","+/-5,361",6.9,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",10,25 to 34 years,"402,204","+/-5,408",12.3,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",11,35 to 44 years,"400,607","+/-4,315",12.3,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",12,45 to 54 years,"415,974","+/-2,915",12.7,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",13,55 to 59 years,"220,356","+/-6,469",6.8,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",14,60 to 64 years,"221,782","+/-6,466",6.8,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",15,65 to 74 years,"384,163",*****,11.8,*****
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",16,75 to 84 years,"259,065","+/-6,385",7.9,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",17,85 years and over,"97,258","+/-6,382",3.0,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",17.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",18,Median age (years),44.1,+/-0.2,(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",18.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",19,Under 18 years,"545,788",*****,16.7,*****
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",20,16 years and over,"2,794,959","+/-2,852",85.6,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",21,18 years and over,"2,717,796",*****,83.3,*****
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",22,21 years and over,"2,574,430","+/-6,830",78.9,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",23,62 years and over,"865,784","+/-5,396",26.5,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",24,65 years and over,"740,486",*****,22.7,*****
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",24.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",25,18 years and over,"2,717,796",*****,"2,717,796",(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",26,Male,"1,267,414",*****,46.6,*****
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",27,Female,"1,450,382",*****,53.4,*****
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",28,Sex ratio (males per 100 females),87.4,*****,(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",28.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",29,65 years and over,"740,486",*****,"740,486",(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",30,Male,"320,068",*****,43.2,*****
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",31,Female,"420,418",*****,56.8,*****
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",32,Sex ratio (males per 100 females),76.1,*****,(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",32.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",32.5,RACE,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",33,Total population,"3,263,584",*****,"3,263,584",(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",34,One race,"2,096,414","+/-25,230",64.2,+/-0.8
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",35,Two or more races,"1,167,170","+/-25,230",35.8,+/-0.8
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",35.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",36,One race,"2,096,414","+/-25,230",64.2,+/-0.8
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",37,White,"914,840","+/-20,303",28.0,+/-0.6
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",38,Black or African American,"200,391","+/-16,369",6.1,+/-0.5
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",39,American Indian and Alaska Native,"6,340","+/-2,214",0.2,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",40,Cherokee tribal grouping,(X),(X),(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",41,Chippewa tribal grouping,(X),(X),(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",42,Navajo tribal grouping,(X),(X),(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",43,Sioux tribal grouping,(X),(X),(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",44,Asian,"6,615","+/-2,013",0.2,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",45,Asian Indian,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",46,Chinese,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",47,Filipino,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",48,Japanese,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",49,Korean,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",50,Vietnamese,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",51,Other Asian,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",52,Native Hawaiian and Other Pacific Islander,84,+/-139,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",53,Native Hawaiian,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",54,Chamorro,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",55,Samoan,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",56,Other Pacific Islander,N,N,N,N
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",57,Some other race,"968,144","+/-26,102",29.7,+/-0.8
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",58,Two or more races,"1,167,170","+/-25,230",35.8,+/-0.8
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",59,White and Black or African American,"29,490","+/-4,718",0.9,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",60,White and American Indian and Alaska Native,601,+/-623,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",61,White and Asian,530,+/-407,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",62,Black or African American and American Indian and Alaska Native,823,+/-557,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",62.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",62.5,Race alone or in combination with one or more other races,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",63,Total population,"3,263,584",*****,"3,263,584",(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",64,White,"1,967,103","+/-28,456",60.3,+/-0.9
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",65,Black or African American,"436,295","+/-19,061",13.4,+/-0.6
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",66,American Indian and Alaska Native,"72,928","+/-6,801",2.2,+/-0.2
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",67,Asian,"9,382","+/-2,462",0.3,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",68,Native Hawaiian and Other Pacific Islander,979,+/-888,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",69,Some other race,"2,098,760","+/-23,873",64.3,+/-0.7
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",69.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",69.5,HISPANIC OR LATINO AND RACE,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",70,Total population,"3,263,584",*****,"3,263,584",(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",71,Hispanic or Latino (of any race),"3,239,060","+/-3,905",99.2,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",72,Mexican,"6,062","+/-1,868",0.2,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",73,Puerto Rican,"3,128,427","+/-9,953",95.9,+/-0.3
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",74,Cuban,"10,041","+/-1,926",0.3,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",75,Other Hispanic or Latino,"94,530","+/-8,213",2.9,+/-0.3
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",76,Not Hispanic or Latino,"24,524","+/-3,905",0.8,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",77,White alone,"14,809","+/-2,422",0.5,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",78,Black or African American alone,"4,219","+/-1,697",0.1,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",79,American Indian and Alaska Native alone,0,+/-254,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",80,Asian alone,"1,608",+/-973,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",81,Native Hawaiian and Other Pacific Islander alone,0,+/-254,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",82,Some other race alone,"2,305","+/-1,026",0.1,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",83,Two or more races,"1,583",+/-699,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",84,Two races including Some other race,817,+/-534,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",85,"Two races excluding Some other race, and Three or more races",766,+/-445,0.0,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",85.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",86,Total housing units,"1,526,801","+/-7,559",(X),(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",86.3,,,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",86.5,"CITIZEN, VOTING AGE POPULATION",,,,
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",87,"Citizen, 18 and over population","2,674,230","+/-5,344","2,674,230",(X)
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",88,Male,"1,246,100","+/-3,259",46.6,+/-0.1
+DP05,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",89,Female,"1,428,130","+/-3,088",53.4,+/-0.1

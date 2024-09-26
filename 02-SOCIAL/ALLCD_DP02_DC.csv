@@ -1,0 +1,201 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",0,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",0.5,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",0.8,HOUSEHOLDS BY TYPE,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",1,Total households,"319,565","+/-3,541","319,565",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",2,Married-couple household,"77,478","+/-4,026",24.2,+/-1.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",3,With children of the householder under 18 years,"29,726","+/-2,849",9.3,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",4,Cohabiting couple household,"24,923","+/-2,653",7.8,+/-0.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",5,With children of the householder under 18 years,"2,207",+/-864,0.7,+/-0.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",6,"Male householder, no spouse/partner present","83,924","+/-3,486",26.3,+/-1.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",7,With children of the householder under 18 years,"1,862",+/-853,0.6,+/-0.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",8,Householder living alone,"68,685","+/-3,494",21.5,+/-1.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",9,65 years and over,"13,671","+/-1,629",4.3,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",10,"Female householder, no spouse/partner present","133,240","+/-4,391",41.7,+/-1.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",11,With children of the householder under 18 years,"17,407","+/-2,196",5.4,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",12,Householder living alone,"85,455","+/-4,213",26.7,+/-1.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",13,65 years and over,"23,678","+/-1,785",7.4,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",13.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",14,Households with one or more people under 18 years,"60,217","+/-4,109",18.8,+/-1.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",15,Households with one or more people 65 years and over,"72,580","+/-1,785",22.7,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",15.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",16,Average household size,1.98,+/-0.02,(X),(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",17,Average family size,3.03,+/-0.08,(X),(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",17.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",17.5,RELATIONSHIP,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",18,Population in households,"633,047",*****,"633,047",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",19,Householder,"319,565","+/-3,541",50.5,+/-0.6
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",20,Spouse,"77,172","+/-4,087",12.2,+/-0.6
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",21,Unmarried partner,"25,218","+/-2,738",4.0,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",22,Child,"140,886","+/-5,432",22.3,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",23,Other relatives,"42,674","+/-5,188",6.7,+/-0.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",24,Other nonrelatives,"27,532","+/-4,573",4.3,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",24.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",24.5,MARITAL STATUS,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",25,Males 15 years and over,"263,114",+/-606,"263,114",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",26,Never married,"143,701","+/-4,603",54.6,+/-1.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",27,"Now married, except separated","90,481","+/-4,840",34.4,+/-1.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",28,Separated,"3,522","+/-1,123",1.3,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",29,Widowed,"4,395","+/-1,192",1.7,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",30,Divorced,"21,015","+/-2,483",8.0,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",30.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",31,Females 15 years and over,"296,559",+/-624,"296,559",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",32,Never married,"166,050","+/-4,269",56.0,+/-1.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",33,"Now married, except separated","78,382","+/-4,295",26.4,+/-1.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",34,Separated,"3,972","+/-1,113",1.3,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",35,Widowed,"16,878","+/-2,136",5.7,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",36,Divorced,"31,277","+/-2,618",10.5,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",36.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",36.5,FERTILITY,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",37,Number of women 15 to 50 years old who had a birth in the past 12 months,"7,874","+/-1,555","7,874",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",38,"Unmarried women (widowed, divorced, and never married)","2,288",+/-869,29.1,+/-9.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",39,"Per 1,000 unmarried women",16,+/-6,(X),(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",40,"Per 1,000 women 15 to 50 years old",39,+/-8,(X),(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",41,"Per 1,000 women 15 to 19 years old",0,+/-12,(X),(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",42,"Per 1,000 women 20 to 34 years old",40,+/-12,(X),(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",43,"Per 1,000 women 35 to 50 years old",47,+/-12,(X),(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",43.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",43.5,GRANDPARENTS,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",44,Number of grandparents living with own grandchildren under 18 years,"9,807","+/-2,012","9,807",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",45,Grandparents responsible for grandchildren,"2,707","+/-1,055",27.6,+/-8.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",45.9,Years responsible for grandchildren,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",46,Less than 1 year,314,+/-317,3.2,+/-3.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",47,1 or 2 years,550,+/-597,5.6,+/-5.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",48,3 or 4 years,490,+/-478,5.0,+/-4.6
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",49,5 or more years,"1,353",+/-661,13.8,+/-6.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",49.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",50,Number of grandparents responsible for own grandchildren under 18 years,"2,707","+/-1,055","2,707",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",51,Who are female,"2,338",+/-890,86.4,+/-9.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",52,Who are married,799,+/-704,29.5,+/-22.6
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",52.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",52.5,SCHOOL ENROLLMENT,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",53,Population 3 years and over enrolled in school,"158,721","+/-5,382","158,721",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",54,"Nursery school, preschool","13,521","+/-1,794",8.5,+/-1.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",55,Kindergarten,"9,681","+/-2,018",6.1,+/-1.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",56,Elementary school (grades 1-8),"50,802","+/-3,096",32.0,+/-2.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",57,High school (grades 9-12),"21,557","+/-1,862",13.6,+/-1.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",58,College or graduate school,"63,160","+/-4,200",39.8,+/-1.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",58.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",58.5,EDUCATIONAL ATTAINMENT,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",59,Population 25 years and over,"478,774",+/-179,"478,774",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",60,Less than 9th grade,"16,201","+/-2,986",3.4,+/-0.6
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",61,"9th to 12th grade, no diploma","18,340","+/-3,474",3.8,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",62,High school graduate (includes equivalency),"70,925","+/-4,665",14.8,+/-1.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",63,"Some college, no degree","56,221","+/-3,749",11.7,+/-0.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",64,Associate's degree,"15,235","+/-2,180",3.2,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",65,Bachelor's degree,"120,771","+/-6,174",25.2,+/-1.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",66,Graduate or professional degree,"181,081","+/-5,751",37.8,+/-1.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",66.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",67,High school graduate or higher,"444,233","+/-4,465",92.8,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",68,Bachelor's degree or higher,"301,852","+/-6,754",63.0,+/-1.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",68.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",68.5,VETERAN STATUS,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",69,Civilian population 18 years and over,"540,029",+/-990,"540,029",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",70,Civilian veterans,"19,377","+/-2,274",3.6,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",70.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",71,Total Civilian Noninstitutionalized Population,"659,979",+/-984,"659,979",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",72,With a disability,"76,754","+/-4,579",11.6,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",72.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",73,Under 18 years,"125,548",+/-164,"125,548",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",74,With a disability,"4,490","+/-1,220",3.6,+/-1.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",74.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",75,18 to 64 years,"450,687","+/-1,289","450,687",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",76,With a disability,"44,267","+/-4,169",9.8,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",76.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",77,65 years and over,"83,744",+/-847,"83,744",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",78,With a disability,"27,997","+/-1,996",33.4,+/-2.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",78.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",78.5,RESIDENCE 1 YEAR AGO,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",79,Population 1 year and over,"661,026","+/-1,835","661,026",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",80,Same house,"527,167","+/-8,611",79.7,+/-1.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",81,Different house (in the U.S. or abroad),"133,859","+/-8,634",20.3,+/-1.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",82,Different house in the U.S.,"126,352","+/-8,605",19.1,+/-1.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",83,Same county,"68,606","+/-7,109",10.4,+/-1.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",84,Different county,"57,746","+/-5,874",8.7,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",85,Same state,0,+/-236,0.0,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",86,Different state,"57,746","+/-5,874",8.7,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",87,Abroad,"7,507","+/-1,477",1.1,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",87.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",87.5,PLACE OF BIRTH,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",88,Total population,"670,050",*****,"670,050",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",89,Native,"580,824","+/-5,624",86.7,+/-0.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",90,Born in United States,"564,741","+/-6,151",84.3,+/-0.9
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",91,State of residence,"234,527","+/-7,984",35.0,+/-1.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",92,Different state,"330,214","+/-9,446",49.3,+/-1.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",93,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","16,083","+/-2,660",2.4,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",94,Foreign born,"89,226","+/-5,624",13.3,+/-0.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",94.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",94.5,U.S. CITIZENSHIP STATUS,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",95,Foreign-born population,"89,226","+/-5,624","89,226",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",96,Naturalized U.S. citizen,"44,900","+/-3,495",50.3,+/-3.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",97,Not a U.S. citizen,"44,326","+/-4,206",49.7,+/-3.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",97.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",97.5,YEAR OF ENTRY,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",98,Population born outside the United States,"105,309","+/-6,151","105,309",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",98.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",99,Native,"16,083","+/-2,660","16,083",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",100,Entered 2010 or later,"5,468","+/-1,660",34.0,+/-8.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",101,Entered before 2010,"10,615","+/-2,041",66.0,+/-8.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",101.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",102,Foreign born,"89,226","+/-5,624","89,226",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",103,Entered 2010 or later,"29,859","+/-3,792",33.5,+/-3.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",104,Entered before 2010,"59,367","+/-3,803",66.5,+/-3.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",104.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",104.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",105,"Foreign-born population, excluding population born at sea","89,226","+/-5,624","89,226",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",106,Europe,"13,942","+/-2,064",15.6,+/-2.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",107,Asia,"20,657","+/-2,581",23.2,+/-2.6
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",108,Africa,"15,451","+/-2,762",17.3,+/-2.6
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",109,Oceania,615,+/-419,0.7,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",110,Latin America,"37,010","+/-3,211",41.5,+/-3.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",111,Northern America,"1,551",+/-683,1.7,+/-0.8
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",111.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",111.5,LANGUAGE SPOKEN AT HOME,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",112,Population 5 years and over,"629,241",+/-158,"629,241",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",113,English only,"519,483","+/-6,228",82.6,+/-1.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",114,Language other than English,"109,758","+/-6,200",17.4,+/-1.0
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",115,"Speak English less than ""very well""","31,413","+/-3,427",5.0,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",116,Spanish,"55,097","+/-3,487",8.8,+/-0.6
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",117,"Speak English less than ""very well""","20,503","+/-2,828",3.3,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",118,Other Indo-European languages,"25,447","+/-2,805",4.0,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",119,"Speak English less than ""very well""","2,081",+/-736,0.3,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",120,Asian and Pacific Islander languages,"13,690","+/-1,815",2.2,+/-0.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",121,"Speak English less than ""very well""","4,285","+/-1,317",0.7,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",122,Other languages,"15,524","+/-3,242",2.5,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",123,"Speak English less than ""very well""","4,544","+/-1,959",0.7,+/-0.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",123.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",123.5,ANCESTRY,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",124,Total population,"670,050",*****,"670,050",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",125,American,"20,058","+/-4,440",3.0,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",126,Arab,"6,184","+/-1,952",0.9,+/-0.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",127,Czech,"2,726",+/-923,0.4,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",128,Danish,"1,748",+/-844,0.3,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",129,Dutch,"3,408","+/-1,015",0.5,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",130,English,"43,358","+/-3,245",6.5,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",131,French (except Basque),"8,342","+/-1,974",1.2,+/-0.3
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",132,French Canadian,"1,957",+/-902,0.3,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",133,German,"52,101","+/-3,568",7.8,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",134,Greek,"3,379","+/-1,009",0.5,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",135,Hungarian,"2,380","+/-1,072",0.4,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",136,Irish,"53,441","+/-4,469",8.0,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",137,Italian,"30,662","+/-3,124",4.6,+/-0.5
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",138,Lithuanian,"2,427","+/-1,008",0.4,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",139,Norwegian,"3,394",+/-956,0.5,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",140,Polish,"17,008","+/-2,839",2.5,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",141,Portuguese,"1,717",+/-679,0.3,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",142,Russian,"11,078","+/-2,483",1.7,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",143,Scotch-Irish,"5,181","+/-1,578",0.8,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",144,Scottish,"10,167","+/-1,630",1.5,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",145,Slovak,"1,361",+/-697,0.2,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",146,Subsaharan African,"24,999","+/-4,980",3.7,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",147,Swedish,"5,713","+/-1,447",0.9,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",148,Swiss,"1,409",+/-544,0.2,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",149,Ukrainian,"2,647",+/-908,0.4,+/-0.1
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",150,Welsh,"2,678","+/-1,040",0.4,+/-0.2
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",151,West Indian (excluding Hispanic origin groups),"15,660","+/-2,797",2.3,+/-0.4
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",151.3,,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",151.5,COMPUTERS AND INTERNET USE,,,,
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",152,Total households,"319,565","+/-3,541","319,565",(X)
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",153,With a computer,"308,014","+/-4,137",96.4,+/-0.7
+DP02,5001800US1198,"Delegate District (at Large) (118th Congress), District of Columbia",154,With a broadband Internet subscription,"288,045","+/-4,321",90.1,+/-0.9

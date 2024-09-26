@@ -1,0 +1,169 @@
+TBLID,GEOID,GEONAME,PROFLN,TITLE,PRF_ESTIMATE,PRF_MG_ERROR,PCT_ESTIMATE,PCT_MG_ERROR
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",0,SELECTED ECONOMIC CHARACTERISTICS,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",0.5,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",0.8,EMPLOYMENT STATUS,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",1,Population 16 years and over,"2,794,959","+/-2,852","2,794,959",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",2,In labor force,"1,252,484","+/-15,116",44.8,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",3,Civilian labor force,"1,248,968","+/-15,432",44.7,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",4,Employed,"1,085,614","+/-16,223",38.8,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",5,Unemployed,"163,354","+/-9,354",5.8,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",6,Armed Forces,"3,516","+/-1,447",0.1,+/-0.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",7,Not in labor force,"1,542,475","+/-15,849",55.2,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",7.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",8,Civilian labor force,"1,248,968","+/-15,432","1,248,968",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",9,Unemployment Rate,(X),(X),13.1,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",9.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",10,Females 16 years and over,"1,486,350","+/-2,733","1,486,350",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",11,In labor force,"604,675","+/-10,147",40.7,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",12,Civilian labor force,"604,226","+/-10,103",40.7,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",13,Employed,"527,885","+/-10,172",35.5,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",13.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",14,Own children of the householder under 6 years,"130,043","+/-3,777","130,043",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",15,All parents in family in labor force,"86,499","+/-4,151",66.5,+/-2.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",15.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",16,Own children of the householder 6 to 17 years,"391,287","+/-5,240","391,287",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",17,All parents in family in labor force,"269,184","+/-7,838",68.8,+/-1.8
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",17.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",17.5,COMMUTING TO WORK,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",18,Workers 16 years and over,"1,055,607","+/-15,745","1,055,607",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",19,"Car, truck, or van -- drove alone","862,533","+/-17,544",81.7,+/-0.9
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",20,"Car, truck, or van -- carpooled","66,006","+/-6,844",6.3,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",21,Public transportation (excluding taxicab),"7,914","+/-1,656",0.7,+/-0.2
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",22,Walked,"26,107","+/-2,842",2.5,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",23,Other means,"14,714","+/-2,471",1.4,+/-0.2
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",24,Worked from home,"78,333","+/-5,882",7.4,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",24.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",25,Mean travel time to work (minutes),27.1,+/-0.4,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",25.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",25.5,OCCUPATION,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",26,Civilian employed population 16 years and over,"1,085,614","+/-16,223","1,085,614",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",27,"Management, business, science, and arts occupations","324,102","+/-10,671",29.9,+/-0.9
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",28,Service occupations,"227,050","+/-8,805",20.9,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",29,Sales and office occupations,"289,971","+/-9,424",26.7,+/-0.8
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",30,"Natural resources, construction, and maintenance occupations","108,107","+/-6,814",10.0,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",31,"Production, transportation, and material moving occupations","136,384","+/-7,452",12.6,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",31.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",31.5,INDUSTRY,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",32,Civilian employed population 16 years and over,"1,085,614","+/-16,223","1,085,614",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",33,"Agriculture, forestry, fishing and hunting, and mining","15,611","+/-2,832",1.4,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",34,Construction,"70,661","+/-6,139",6.5,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",35,Manufacturing,"102,485","+/-7,535",9.4,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",36,Wholesale trade,"33,407","+/-4,230",3.1,+/-0.4
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",37,Retail trade,"150,743","+/-8,708",13.9,+/-0.8
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",38,"Transportation and warehousing, and utilities","37,334","+/-4,476",3.4,+/-0.4
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",39,Information,"17,162","+/-2,674",1.6,+/-0.2
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",40,"Finance and insurance, and real estate and rental and leasing","57,530","+/-5,171",5.3,+/-0.5
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",41,"Professional, scientific, and management, and administrative and waste management services","119,548","+/-6,990",11.0,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",42,"Educational services, and health care and social assistance","229,167","+/-10,435",21.1,+/-0.9
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",43,"Arts, entertainment, and recreation, and accommodation and food services","96,766","+/-6,797",8.9,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",44,"Other services, except public administration","68,059","+/-5,311",6.3,+/-0.5
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",45,Public administration,"87,141","+/-5,691",8.0,+/-0.5
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",45.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",45.5,CLASS OF WORKER,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",46,Civilian employed population 16 years and over,"1,085,614","+/-16,223","1,085,614",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",47,Private wage and salary workers,"747,867","+/-16,849",68.9,+/-1.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",48,Government workers,"201,620","+/-9,684",18.6,+/-0.8
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",49,Self-employed in own not incorporated business workers,"135,666","+/-7,462",12.5,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",50,Unpaid family workers,461,+/-346,0.0,+/-0.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",50.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",50.5,INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS),,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",51,Total households,"1,165,982","+/-9,161","1,165,982",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",52,"Less than $10,000","286,499","+/-7,691",24.6,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",53,"$10,000 to $14,999","132,217","+/-6,671",11.3,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",54,"$15,000 to $24,999","214,042","+/-6,876",18.4,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",55,"$25,000 to $34,999","148,970","+/-6,454",12.8,+/-0.5
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",56,"$35,000 to $49,999","140,432","+/-5,941",12.0,+/-0.5
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",57,"$50,000 to $74,999","124,418","+/-6,607",10.7,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",58,"$75,000 to $99,999","52,813","+/-3,271",4.5,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",59,"$100,000 to $149,999","38,823","+/-3,137",3.3,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",60,"$150,000 to $199,999","11,910","+/-2,116",1.0,+/-0.2
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",61,"$200,000 or more","15,858","+/-2,430",1.4,+/-0.2
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",62,Median household income (dollars),"22,237",+/-478,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",63,Mean household income (dollars),"35,452",+/-848,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",63.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",64,With earnings,"641,417","+/-9,934",55.0,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",65,Mean earnings (dollars),"42,081","+/-1,215",(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",66,With Social Security,"551,804","+/-7,294",47.3,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",67,Mean Social Security income (dollars),"14,024",+/-199,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",68,With retirement income,"202,559","+/-6,310",17.4,+/-0.5
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",69,Mean retirement income (dollars),"17,583",+/-727,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",69.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",70,With Supplemental Security Income,"4,393",+/-965,0.4,+/-0.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",71,Mean Supplemental Security Income (dollars),"13,140","+/-2,282",(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",72,With cash public assistance income,"45,261","+/-2,939",3.9,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",73,Mean cash public assistance income (dollars),"2,204",+/-132,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",74,With Food Stamp/SNAP benefits in the past 12 months,"577,665","+/-9,652",49.5,+/-0.8
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",74.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",75,Families,"738,853","+/-11,726","738,853",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",76,"Less than $10,000","137,095","+/-5,889",18.6,+/-0.8
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",77,"$10,000 to $14,999","64,464","+/-4,844",8.7,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",78,"$15,000 to $24,999","138,133","+/-6,291",18.7,+/-0.8
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",79,"$25,000 to $34,999","103,064","+/-5,919",13.9,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",80,"$35,000 to $49,999","105,310","+/-4,528",14.3,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",81,"$50,000 to $74,999","95,023","+/-5,645",12.9,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",82,"$75,000 to $99,999","41,207","+/-2,880",5.6,+/-0.4
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",83,"$100,000 to $149,999","30,764","+/-2,843",4.2,+/-0.4
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",84,"$150,000 to $199,999","10,452","+/-2,041",1.4,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",85,"$200,000 or more","13,341","+/-2,172",1.8,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",86,Median family income (dollars),"27,669",+/-708,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",87,Mean family income (dollars),"41,678","+/-1,244",(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",87.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",88,Per capita income (dollars),"14,468",+/-338,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",88.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",89,Nonfamily households,"427,129","+/-9,593","427,129",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",90,Median nonfamily income (dollars),"13,535",+/-390,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",91,Mean nonfamily income (dollars),"21,531",+/-853,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",91.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",92,Median earnings for workers (dollars),"17,843",+/-343,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",93,"Median earnings for male full-time, year-round workers (dollars)","25,231",+/-704,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",94,"Median earnings for female full-time, year-round workers (dollars)","25,035",+/-582,(X),(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",94.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",94.5,HEALTH INSURANCE COVERAGE,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",95,Civilian noninstitutionalized population,"3,237,924","+/-1,448","3,237,924",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",96,With health insurance coverage,"3,052,763","+/-11,006",94.3,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",97,With private health insurance,"1,233,579","+/-23,092",38.1,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",98,With public coverage,"2,030,178","+/-22,859",62.7,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",99,No health insurance coverage,"185,161","+/-10,833",5.7,+/-0.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",99.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",100,Civilian noninstitutionalized population under 19 years,"591,090","+/-4,462","591,090",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",101,No health insurance coverage,"15,803","+/-3,401",2.7,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",101.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",102,Civilian noninstitutionalized population 19 to 64 years,"1,914,315","+/-4,561","1,914,315",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",103,In labor force:,"1,187,912","+/-14,788","1,187,912",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",104,Employed:,"1,032,168","+/-14,639","1,032,168",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",105,With health insurance coverage,"934,730","+/-15,432",90.6,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",106,With private health insurance,"609,489","+/-14,121",59.0,+/-1.0
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",107,With public coverage,"340,743","+/-12,594",33.0,+/-1.2
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",108,No health insurance coverage,"97,438","+/-6,095",9.4,+/-0.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",109,Unemployed:,"155,744","+/-8,940","155,744",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",110,With health insurance coverage,"140,273","+/-8,276",90.1,+/-1.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",111,With private health insurance,"36,001","+/-4,441",23.1,+/-2.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",112,With public coverage,"105,875","+/-7,143",68.0,+/-2.5
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",113,No health insurance coverage,"15,471","+/-2,731",9.9,+/-1.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",114,Not in labor force:,"726,403","+/-13,534","726,403",(X)
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",115,With health insurance coverage,"677,962","+/-13,396",93.3,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",116,With private health insurance,"191,952","+/-7,903",26.4,+/-1.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",117,With public coverage,"509,649","+/-13,621",70.2,+/-1.2
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",118,No health insurance coverage,"48,441","+/-4,914",6.7,+/-0.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",118.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",119,All families,(X),(X),36.7,+/-1.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",120,With related children of the householder under 18 years,(X),(X),50.1,+/-1.6
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",121,With related children of the householder under 5 years only,(X),(X),47.6,+/-4.8
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",122,Married couple families,(X),(X),24.0,+/-1.4
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",123,With related children of the householder under 18 years,(X),(X),24.8,+/-2.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",124,With related children of the householder under 5 years only,(X),(X),20.5,+/-6.3
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",125,"Families with female householder, no spouse present",(X),(X),54.2,+/-1.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",126,With related children of the householder under 18 years,(X),(X),69.6,+/-2.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",127,With related children of the householder under 5 years only,(X),(X),66.8,+/-6.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",127.3,,,,,
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",128,All people,(X),(X),40.5,+/-0.9
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",129,Under 18 years,(X),(X),54.9,+/-1.9
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",130,Related children of the householder under 18 years,(X),(X),54.8,+/-1.9
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",131,Related children of the householder under 5 years,(X),(X),57.4,+/-3.7
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",132,Related children of the householder 5 to 17 years,(X),(X),54.2,+/-1.9
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",133,18 years and over,(X),(X),37.6,+/-0.9
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",134,18 to 64 years,(X),(X),37.5,+/-1.0
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",135,65 years and over,(X),(X),38.0,+/-1.1
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",136,People in families,(X),(X),37.3,+/-1.0
+DP03,5001800US7298,"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",137,Unrelated individuals 15 years and over,(X),(X),54.6,+/-1.1
